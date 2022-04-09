@@ -1,0 +1,3 @@
+[submodule "external/RadioLib"]
+	path = external/RadioLib
+	url = https://github.com/CrashOverride85/RadioLib.git
